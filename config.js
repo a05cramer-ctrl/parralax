@@ -1,1 +1,1 @@
-window.PARALLAX_CFG={NAME:"PARALLAX",TICKER:"PARALLAX",CA:"",CHAIN:"solana",PAD:"pump.fun",PAIR:"",X:"",BUY:"",CHART:""};
+window.PARALLAX_CFG={NAME:"PARALLAX",TICKER:"PARALLAX",CA:"E9ANTJp3CaFPo2F9abrTXhPmEJRTR69quyeKJrYNpump",CHAIN:"solana",PAD:"pump.fun",PAIR:"",X:"https://x.com/parallaxhl",BUY:"https://pump.fun/coin/E9ANTJp3CaFPo2F9abrTXhPmEJRTR69quyeKJrYNpump",CHART:"https://gmgn.ai/sol/token/E9ANTJp3CaFPo2F9abrTXhPmEJRTR69quyeKJrYNpump"};
