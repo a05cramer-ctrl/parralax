@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/positions.js": { "maxDuration": 30 },
+    "api/top.js": { "maxDuration": 30 },
+    "api/wallet.js": { "maxDuration": 15 }
+  }
+}

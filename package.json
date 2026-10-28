@@ -1,0 +1,11 @@
+{
+  "name": "parallax",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PARALLAX - top Hyperliquid wallets' open positions and convergence alerts",
+  "license": "UNLICENSED",
+  "engines": { "node": "24.x" },
+  "scripts": {
+    "test": "node lib/_selftest.js"
+  }
+}
